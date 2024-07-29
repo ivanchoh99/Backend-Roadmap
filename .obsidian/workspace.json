@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b20098c826db79",
+        "id": "7913875a37e0f8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "458e2bd58b74c2f8",
+            "id": "bc3fd8c37d9641af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backend Developer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend Developer.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458e2bd58b74c2f8",
+  "active": "bc3fd8c37d9641af",
   "lastOpenFiles": [
+    "Cómo funciona el internet.md",
+    "Backend Developer.md",
+    "Que es HTTP.md",
+    "Internet.md",
+    "Diseño y arquitectura de software.md",
     "Welcome.md"
   ]
 }
